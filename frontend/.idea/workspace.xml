@@ -7,16 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e25c6160-4cf2-4a69-8cfd-14312f82b31f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/about.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/contact.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/shared/footer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/shared/navbar.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/js/myapp.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/graigjin/onlineshopidea/controller/PageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/graigjin/onlineshopidea/controller/PageController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/page.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/page.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/css/myapp.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/assets/css/myapp.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/css/bootstrap-readable-theme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/assets/css/bootstrap-readable-theme" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/page.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="343">
@@ -49,9 +41,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/assets/css/bootstrap-readable-theme">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="652">
+              <caret line="11" column="167409" selection-start-line="11" selection-start-column="167409" selection-end-line="11" selection-end-column="167409" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -96,6 +92,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/shared/footer.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/assets/css/myapp.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/page.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/assets/css/bootstrap-readable-theme" />
       </list>
     </option>
   </component>
@@ -114,9 +111,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="748" />
-    <option name="y" value="28" />
-    <option name="width" value="932" />
+    <option name="x" value="16" />
+    <option name="y" value="32" />
+    <option name="width" value="1642" />
     <option name="height" value="927" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -249,7 +246,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545410634190" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545410975733" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -395,7 +392,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545370616127</updated>
-      <workItem from="1545370620868" duration="9598000" />
+      <workItem from="1545370620868" duration="9847000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Project Setup">
       <created>1545371310452</created>
@@ -411,11 +408,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545406262858</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Interface modified">
+      <created>1545410697565</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1545410697565</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9598000" />
+    <option name="totallyTimeSpent" value="9847000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -428,7 +432,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="748" y="28" width="932" height="927" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -436,7 +439,7 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" sideWeight="0.50091743" side_tool="true" weight="0.24984026" />
       <window_info id="Web" sideWeight="0.50091743" side_tool="true" weight="0.27415732" />
-      <window_info active="true" content_ui="combo" x="681" y="219" width="391" height="545" id="Project" order="0" sideWeight="0.49908257" visible="true" weight="0.27415732" />
+      <window_info content_ui="combo" x="681" y="219" width="391" height="545" id="Project" order="0" sideWeight="0.49908257" visible="true" weight="0.36853933" />
       <window_info id="Structure" order="1" sideWeight="0.50091743" side_tool="true" weight="0.27415732" />
       <window_info anchor="bottom" id="Application Servers" weight="0.32881773" />
       <window_info anchor="bottom" id="Spring" />
@@ -449,7 +452,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32881773" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32881773" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32881773" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -499,9 +502,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Initial Project Setup" />
     <MESSAGE value="Successfully loaded static resources" />
-    <option name="LAST_COMMIT_MESSAGE" value="Successfully loaded static resources" />
+    <MESSAGE value="Interface modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interface modified" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com.graigjin.online-shop-idea.controller.PageController.java">
@@ -603,13 +608,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/assets/css/bootstrap-readable-theme">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/page.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
           <caret line="46" column="25" lean-forward="true" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/assets/css/bootstrap-readable-theme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="11" column="167409" selection-start-line="11" selection-start-column="167409" selection-end-line="11" selection-end-column="167409" />
         </state>
       </provider>
     </entry>
