@@ -2,26 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05cd5159-57bd-4951-bfcd-50f6a35df50d" name="Default Changelist" comment="Initial Project Setup">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/graigjin/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/graigjin/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/frontend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/main/java/com/graigjin/onlineshopidea/controller/PageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/main/webapp/WEB-INF/views/page.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/main/webapp/index.jsp" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -145,12 +134,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545370969299</updated>
-      <workItem from="1545370973801" duration="324000" />
+      <workItem from="1545370973801" duration="882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="324000" />
+    <option name="totallyTimeSpent" value="882000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -163,7 +152,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="28" width="1607" height="927" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
