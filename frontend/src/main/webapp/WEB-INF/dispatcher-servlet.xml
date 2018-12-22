@@ -13,6 +13,7 @@
 ">
 
 	<context:component-scan base-package="com.graigjin.onlineshopidea.controller" />
+	<context:component-scan base-package="com.graigjin.onlineshopideabackend.daoimpl" />
 
 	<bean id="viewResolver"
 	      class="org.springframework.web.servlet.view.InternalResourceViewResolver">

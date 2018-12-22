@@ -7,6 +7,7 @@
   <groupId>com.graigjin</groupId>
   <artifactId>online-shop-idea-backend</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>jar</packaging>
 
   <name>online-shop-idea-backend</name>
   <url>http://www.graigjin.com</url>
@@ -15,6 +16,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
+    <spring.version>5.1.3.RELEASE</spring.version>
   </properties>
 
   <dependencies>
@@ -24,6 +26,13 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-context</artifactId>
+      <version>${spring.version}</version>
+    </dependency>
+
   </dependencies>
 
   <build>
